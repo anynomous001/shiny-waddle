@@ -9,17 +9,14 @@ The designs were created to the following widths:
 
 ## Colors
 
-### Primary
-
-Bright Red: hsl(12, 88%, 59%)
-Dark Blue: hsl(228, 39%, 23%)
-
-### Neutral
-
-Dark Grayish Blue: hsl(227, 12%, 61%)
-Very Dark Blue: hsl(233, 12%, 13%)
-Very Pale Red: hsl(13, 100%, 96%)
-Vary Light Gray: hsl(0, 0%, 98%)
+brightRed: 'hsl(12, 88%, 59%)',
+darkBlue: 'hsl(228, 39%, 23%)',
+brightRedSuperLight:'hsl(12,88%,95%)',
+brightRedLight:'hsl(12,88%,79%)',
+darkGrayishBlue: 'hsl(227, 12%, 61%)',
+veryDarkBlue: 'hsl(233, 12%, 13%)',
+veryPaleRed: 'hsl(13, 100%, 96%)',
+varyLightGray: 'hsl(0, 0%, 98%)'
 
 ## Typography
 
